@@ -1,0 +1,11 @@
+{
+  "org": "oven-sh",
+  "repo": "bun.report",
+  "versions": [
+    {
+      "commit": "be6067d5b48a9080b9fef74f0845ad81cd48a1b5",
+      "tag": "",
+      "parsed_at": "2026-10-10T07:46:23.520497+00:00"
+    }
+  ]
+}
